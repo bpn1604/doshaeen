@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "password": "12345",
+      "resetPassword": "12345"
+    },
+    {
+      "name": "bipin",
+      "email": "admin@gmail.com",
+      "password": "1546",
+      "resetPassword": "1546",
+      "id": 2
+    }
+  ]
+}
